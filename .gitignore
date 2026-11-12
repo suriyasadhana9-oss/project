@@ -1,0 +1,25 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Flask & SQLite instance
+instance/
+*.sqlite3
+*.db
+
+# Vercel
+.vercel/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
